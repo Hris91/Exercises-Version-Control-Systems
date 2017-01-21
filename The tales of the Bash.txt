@@ -1,4 +1,1 @@
-Bashing it up. Now! Will it change?
-Bashing it up. Now!
-The browser did it.
-
+It should be only this change.
